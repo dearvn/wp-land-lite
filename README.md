@@ -1,5 +1,5 @@
-# WP-React-Kit
-A simple starter kit to work in WordPress plugin development using WordPress Rest API, WP-script, React, React Router, Tailwind CSS, PostCSS, Eslint, WP-Data, WP-Data Store, React Components, React CRUD, i18n, PHPUnit Test, JestUnit Test, e2e Test, Gutenberg blocks and PHP OOP plugin architecture easily in a minute.
+# WP Land Lite
+A simple project to manage real estate for agency to work in WordPress plugin development using WordPress Rest API, WP-script, React, React Router, Tailwind CSS, PostCSS, Eslint, WP-Data, WP-Data Store, React Components, React CRUD, i18n, PHPUnit Test, JestUnit Test, e2e Test, Gutenberg blocks and PHP OOP plugin architecture easily in a minute.
 
 ----
 
@@ -128,8 +128,6 @@ composer run test:all
 http://[domain]/wp-admin/admin.php?page=landlite#/
 
 ### REST API's
-
-**Postman API Link** - https://www.getpostman.com/collections/f94073131fc1411506e8
 
 #### REST API Documentation
 
